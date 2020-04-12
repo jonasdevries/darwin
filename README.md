@@ -5,7 +5,7 @@
 
 #### Deployment related questions
 
-x What about jsp files in WAR?
+- What about jsp files in WAR?
 
 
 
